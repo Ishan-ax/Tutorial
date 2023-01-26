@@ -1,0 +1,86 @@
+
+.img1{
+    margin-top: 100px;
+    margin-left: 250px;
+    height:30px;
+    width: 30px;
+
+
+}
+.img11{
+    border-radius: 100%;  
+    border: 20px solid rgb(247, 242, 242);   
+}
+.img2{
+    height:100px;
+    display: flex;
+    width: 100px;
+}
+
+.img22{
+    height: 100px;
+    width: 100px;
+}
+.maindiv{
+    position: relative;
+    top: 50px;
+    left: 900px;
+    
+}
+
+.div2{
+    font-family: "adobe-clean", sans-serif;
+    font-size: 30px;
+}
+.div3{
+    margin :5px;
+    font-family: "adobe-clean", sans-serif;
+    font-size: 30px;
+}
+.div4{
+    margin-top: 20px;
+    font-family: "adobe-clean", sans-serif;
+    font-size: 20px;
+
+}
+.div5{
+    margin-top: 5px;
+}
+.div6{
+    margin-top: 10px;
+}
+
+.span1{
+    margin-left: 80px;
+    font-family: "adobe-clean", sans-serif;
+    color: grey;
+    font-size: 10px;
+}
+
+.div7{
+    margin-top: 15px;
+    font-family: "adobe-clean", sans-serif;
+    color: grey;
+    font-size: 12px;
+}
+.bold1{
+    color: red;
+}
+
+.bold2{
+    margin-left: 20px;
+    color: red;
+    font-family: "adobe-clean", sans-serif;
+}
+.button{
+    background-color: red;
+    border-radius: 15px;
+    /* padding: 2px,2px,2px,2px; */
+}
+.div1{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: "adobe-clean", sans-serif;
+    font-size:55px ;
+}
+
