@@ -632,6 +632,7 @@ height: 45px;
 /* UI Properties */
 background: #C8242F 0% 0% no-repeat padding-box;
 border-radius: 23px;
+border-color: #C8242F;
 opacity: 1;
 
 }
@@ -642,8 +643,10 @@ opacity: 1;
     left: 170px;
     width: 124px;
 height: 45px;
+border-color: #FF3535;
+color: #C8242F;
 /* UI Properties */
-background: #C8242F 0% 0% no-repeat padding-box;
+/* background: #C8242F 0% 0% no-repeat padding-box; */
 border-radius: 23px;
 opacity: 1;
 
